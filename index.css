@@ -30,6 +30,14 @@ section#s9 {
     height: 400px;
     background-repeat: no-repeat;
     background-position: center;
+
 }
 
+section#s10 img {
+    border-style: solid;
+    border-width: 15px;
+    border-color: rgb(224, 165, 75);
+    border-radius: 50%;
+    box-shadow: 10px 10px 5px rgb(238, 141, 30);
+}
 
