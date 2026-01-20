@@ -1,0 +1,35 @@
+
+
+section#s5 p {
+    color: purple;
+}
+
+section#s6 p {
+    color: orange !important;
+}
+
+section#s7 ol li {
+    color: blue;
+    font-weight: bold;
+    font-size: 20px;
+    text-decoration: underline;
+    font-family: Arial, sans-serif;
+}
+
+
+
+section#s8  {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+section#s9 {
+    background-image: url(../assigmentno2/bilder/catblink.webp);
+    background-size: small;
+    height: 400px;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+
